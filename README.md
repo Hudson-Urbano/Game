@@ -68,7 +68,7 @@ O **Game Logic** é um projeto que combina **lógica, estratégia e colaboraçã
 
 ## 🔗 Link do Projeto
 
-([https://github.com/giovanivvasconcelos/Senac---Projeto-Integrador---Game-Logic](https://github.com/Hudson-Urbano/Game.git))
+(https://github.com/Hudson-Urbano/Game.git)
 
 ---
 
